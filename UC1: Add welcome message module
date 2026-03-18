@@ -1,5 +1,5 @@
 
-public class UseCase1HotelBookingApp {
+public class HotelBookingApp {
 
     /**
      * Application entry point.
